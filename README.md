@@ -4,7 +4,7 @@
 🔍 SQL queries? Check them out here: [project_sql_folder](/project_sql/)
 
 # Background
-Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others work to find optimal jobs.
+Driven by a quest to navigate the data analyst job market more effectively, this project was created from a desire to pinpoint top-paid and in-demand skills, streamlining others work to find optimal jobs.
 
 Data hails from my [SQL Course] (https://lukebarousse.com/sql). It's picked with insights on job titles, salaries, location, and essential skills.
 
@@ -28,7 +28,7 @@ For my deep dive into the data analyst job market, I mastered several key tools:
 Each query for this project aimed at investigating specific aspectrs of the daya analyst job market. Here's how I approached each question:
 
 ### 1. Top Paying Data Analyst Jobs.
-To identify the highest-paying roles I filtered data analyst position by average yearly salary and country, focusin on remote jobs. This query highlights th high paying oppurtunities in the field.
+To identify the highest-paying roles I filtered data analyst position by average yearly salary and country. This query highlights th high paying oppurtunities in the field.
 
 ```sql
 SELECT
@@ -85,7 +85,7 @@ INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
 ORDER BY
     salary_year_avg DESC
 ```
-Here's the breakdown of the the most demand skills for data analysts in 2023:
+Here's the breakdown of the skills with top paying salaries for data analysts in 2023:
 - **SQL** is leading with a bold count of 8.
 - **Python** follows closely with a bold count of 7.
 - **Tableau** is also highly sought after, with a bold count of 6.
@@ -203,7 +203,7 @@ along with SQL expertise, continues to be highly valued. Professionals adept in 
 
 **Tools for Enhanced Efficiency**
 - Emerging tools such as Jira, Looker, Flow, Zoom, Snowflake, and BigQuery 
-are gaining prominence, indicating a growing emphasis on project management, data visualization, workflow automation, and cloud-based analytics platforms. Mastery of these tools not only streamlines processes but also enhances productivity and decision-making capabilities within organizations.
+are gaining prominence, indicating a growing emphasis on project management, data visualization, workflow kautomation, and cloud-based analytics platforms. Mastery of these tools not only streamlines processes but also enhances productivity and decision-making capabilities within organizations.
 
 **Enduring Relevance of Office Software Skills:**
 - Despite the technological advancements, 
@@ -211,7 +211,7 @@ the enduring relevance of Microsoft Excel persists. Alongside Excel, proficiency
 
 # What I Learned
 
-Throughout this journey, I've gained my SQL toolkit with some serious skills and knowledge:
+Throughout this journey, I've gained my SQL toolkit with skills and knowledge:
 
 **🧩Proficiency in Complex Query Crafting:** I have attained mastery in advanced SQL techniques, adeptly merging tables and employing WITH clauses for sophisticated temporary table operations.
 
