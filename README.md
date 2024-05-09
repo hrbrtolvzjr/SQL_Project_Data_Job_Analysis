@@ -25,7 +25,7 @@ For my deep dive into the data analyst job market, I harnessed the power of seve
 - **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
 
 # The Analysis
-Each query for this project aimed at investigating specific aspectrs of the daya analyst job market in the Philippines. Here's how I approached each question:
+Each query for this project aimed at investigating specific aspectrs of the daya analyst job market. Here's how I approached each question:
 
 ### 1. Top Paying Data Analyst Jobs.
 To identify the highest-paying roles I filtered data analyst position by average yearly salary and location, focusin on remote jobs. This query highlights th high paying oppurtunities in the field.
